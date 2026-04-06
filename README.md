@@ -1,5 +1,9 @@
 # 🧠 Graph Neural Network using KarateClub Dataset
 
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![PyTorch](https://img.shields.io/badge/PyTorch-Geometric-red)
+![Project](https://img.shields.io/badge/Project-GNN-green)
+
 This project implements a **Graph Convolutional Network (GCN)** using **PyTorch Geometric** on the **KarateClub dataset** to perform **node classification** and visualize **node embeddings** during training.
 
 ---
@@ -65,6 +69,16 @@ The project includes:
 
 ---
 
+# 📂 Project Structure
+
+```
+.
+├── gnn_karateclub.ipynb
+└── README.md
+```
+
+---
+
 # 🚀 Installation
 
 ```bash
@@ -78,9 +92,13 @@ pip install numpy
 
 # ▶️ Run
 
-```bash
-python gnn_karateclub.py
+Open the notebook:
+
 ```
+gnn_karateclub.ipynb
+```
+
+Run all cells to train the model and visualize embeddings.
 
 ---
 
@@ -92,7 +110,7 @@ python gnn_karateclub.py
 
 ---
 
-# 📚 Technologies Used
+# 🛠 Technologies Used
 
 * PyTorch
 * PyTorch Geometric
@@ -112,6 +130,8 @@ python gnn_karateclub.py
 
 ---
 
-# Author
+# 👩‍💻 Author
 
-Nyasa Lohiya
+**Nyasa Lohiya**
+
+---
